@@ -1,1 +1,3 @@
 linea 2
+Cambio en master: línea A
+Cambio en master: línea B
